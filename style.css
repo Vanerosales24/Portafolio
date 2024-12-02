@@ -1,0 +1,59 @@
+body{
+    font-family: "Nunito", sans-serif;
+}
+header{
+    background-color: #a90448;
+}
+header a{
+color: beige;
+} 
+.nav-item a{
+color: #fffad3;
+}
+.perfil{
+color: #fffad3;
+}
+.fs-4{
+color:#fffad3;
+}
+#boton-perfil{
+    background-color:#d6dd90;
+}
+.nav-item a:hover {
+color:#7db8a2 ;
+}
+#app{
+color: #7e638c;
+}
+.boton-cv{
+background-color: #d6dd90;
+color: #351330 ;
+}
+.caja-habilidades{
+background-color: #d6dd90; 
+color: #351330;
+}
+.btn-proyecto{
+    background-color: #7e638c;
+}
+.btn-proyecto a{
+text-decoration: none;
+color: #7db8a2;
+}
+.card .card-title{
+color: #d6496c;
+}
+.caja-contacto{
+    background-color: #7db8a2;
+    color: #a90448;
+}
+footer li a i{
+color: #a90448;
+}
+footer p{
+    color: #a90448;
+}
+footer p a{
+    text-decoration: none;
+    color: #a90448;
+}
